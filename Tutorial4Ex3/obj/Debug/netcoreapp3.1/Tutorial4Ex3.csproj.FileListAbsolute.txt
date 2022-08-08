@@ -1,0 +1,14 @@
+C:\Users\gauta\source\repos\Tutorial4Ex3\obj\Debug\netcoreapp3.1\Tutorial4Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gauta\source\repos\Tutorial4Ex3\obj\Debug\netcoreapp3.1\Tutorial4Ex3.AssemblyInfoInputs.cache
+C:\Users\gauta\source\repos\Tutorial4Ex3\obj\Debug\netcoreapp3.1\Tutorial4Ex3.AssemblyInfo.cs
+C:\Users\gauta\source\repos\Tutorial4Ex3\obj\Debug\netcoreapp3.1\Tutorial4Ex3.csproj.CoreCompileInputs.cache
+C:\Users\gauta\source\repos\Tutorial4Ex3\bin\Debug\netcoreapp3.1\Tutorial4Ex3.exe
+C:\Users\gauta\source\repos\Tutorial4Ex3\bin\Debug\netcoreapp3.1\Tutorial4Ex3.deps.json
+C:\Users\gauta\source\repos\Tutorial4Ex3\bin\Debug\netcoreapp3.1\Tutorial4Ex3.runtimeconfig.json
+C:\Users\gauta\source\repos\Tutorial4Ex3\bin\Debug\netcoreapp3.1\Tutorial4Ex3.runtimeconfig.dev.json
+C:\Users\gauta\source\repos\Tutorial4Ex3\bin\Debug\netcoreapp3.1\Tutorial4Ex3.dll
+C:\Users\gauta\source\repos\Tutorial4Ex3\bin\Debug\netcoreapp3.1\Tutorial4Ex3.pdb
+C:\Users\gauta\source\repos\Tutorial4Ex3\obj\Debug\netcoreapp3.1\Tutorial4Ex3.csproj.AssemblyReference.cache
+C:\Users\gauta\source\repos\Tutorial4Ex3\obj\Debug\netcoreapp3.1\Tutorial4Ex3.dll
+C:\Users\gauta\source\repos\Tutorial4Ex3\obj\Debug\netcoreapp3.1\Tutorial4Ex3.pdb
+C:\Users\gauta\source\repos\Tutorial4Ex3\obj\Debug\netcoreapp3.1\Tutorial4Ex3.genruntimeconfig.cache
