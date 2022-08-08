@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gauta\\source\\repos\\Tutorial4Ex3\\Tutorial4Ex3.csproj": {}
+    "C:\\Users\\gauta\\OneDrive\\Desktop\\ICT272 Web design  and Development\\LABT-Biweekly-6\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gauta\\source\\repos\\Tutorial4Ex3\\Tutorial4Ex3.csproj": {
+    "C:\\Users\\gauta\\OneDrive\\Desktop\\ICT272 Web design  and Development\\LABT-Biweekly-6\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gauta\\source\\repos\\Tutorial4Ex3\\Tutorial4Ex3.csproj",
+        "projectUniqueName": "C:\\Users\\gauta\\OneDrive\\Desktop\\ICT272 Web design  and Development\\LABT-Biweekly-6\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj",
         "projectName": "Tutorial4Ex3",
-        "projectPath": "C:\\Users\\gauta\\source\\repos\\Tutorial4Ex3\\Tutorial4Ex3.csproj",
+        "projectPath": "C:\\Users\\gauta\\OneDrive\\Desktop\\ICT272 Web design  and Development\\LABT-Biweekly-6\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj",
         "packagesPath": "C:\\Users\\gauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gauta\\source\\repos\\Tutorial4Ex3\\obj\\",
+        "outputPath": "C:\\Users\\gauta\\OneDrive\\Desktop\\ICT272 Web design  and Development\\LABT-Biweekly-6\\LABT-Biweekly-6\\Tutorial4Ex3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
