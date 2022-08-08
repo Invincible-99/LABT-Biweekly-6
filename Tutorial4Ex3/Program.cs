@@ -32,6 +32,7 @@ namespace Tutorial4Ex3
             Console.WriteLine("ID of the 1st customer : " + cust1.id);
             Console.WriteLine("Name of the 2nd customer : " + cust2.name);
         Console.WriteLine("Name of the 2nd customer : " + cust2.name);
+        Console.WriteLine("ID of the 1st customer : " + cust1.id);
 
     }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gauta\\OneDrive\\Desktop\\ICT272 Web design  and Development\\LABT-Biweekly-6\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj": {}
+    "C:\\Users\\hangi\\OneDrive\\Documents\\GitHub\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gauta\\OneDrive\\Desktop\\ICT272 Web design  and Development\\LABT-Biweekly-6\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj": {
+    "C:\\Users\\hangi\\OneDrive\\Documents\\GitHub\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gauta\\OneDrive\\Desktop\\ICT272 Web design  and Development\\LABT-Biweekly-6\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj",
+        "projectUniqueName": "C:\\Users\\hangi\\OneDrive\\Documents\\GitHub\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj",
         "projectName": "Tutorial4Ex3",
-        "projectPath": "C:\\Users\\gauta\\OneDrive\\Desktop\\ICT272 Web design  and Development\\LABT-Biweekly-6\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj",
-        "packagesPath": "C:\\Users\\gauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gauta\\OneDrive\\Desktop\\ICT272 Web design  and Development\\LABT-Biweekly-6\\LABT-Biweekly-6\\Tutorial4Ex3\\obj\\",
+        "projectPath": "C:\\Users\\hangi\\OneDrive\\Documents\\GitHub\\LABT-Biweekly-6\\Tutorial4Ex3\\Tutorial4Ex3.csproj",
+        "packagesPath": "C:\\Users\\hangi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hangi\\OneDrive\\Documents\\GitHub\\LABT-Biweekly-6\\Tutorial4Ex3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hangi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
